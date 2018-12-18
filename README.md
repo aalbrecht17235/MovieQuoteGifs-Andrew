@@ -69,7 +69,7 @@ MovieQuoteGif is an API Javascript Jquery application that allow the user to sea
 
 Clone MovieQuoteGif to your local git repo like the following:
 
-> git clone https://github.com/danielpolk/MovieQuoteGifs.git/
+> git clone https://github.com/aalbrecht17235/MovieQuoteGifs.git/
 
 The MovieQuoteGif project and its files should now be in your project folder.
 
@@ -77,6 +77,6 @@ The MovieQuoteGif project and its files should now be in your project folder.
 
 Open index.html file in browser (Chrome Preferred)
 
-Or visit https://danielpolk.github.io/MovieQuoteGifs/
+Or visit https://aalbrecht17235.github.io/MovieQuoteGifs/
 
 
