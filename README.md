@@ -77,6 +77,6 @@ The MovieQuoteGif project and its files should now be in your project folder.
 
 Open index.html file in browser (Chrome Preferred)
 
-Or visit https://aalbrecht17235.github.io/MovieQuoteGifs/
+Or visit https://aalbrecht17235.github.io/MovieQuoteGifs-Andrew/
 
 
